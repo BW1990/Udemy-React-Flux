@@ -1,0 +1,19 @@
+{
+  "name": "udemy-react-flux",
+  "version": "1.0.0",
+  "description": "Udemy-React-Flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BW1990/Udemy-React-Flux.git"
+  },
+  "author": "Brian Winward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BW1990/Udemy-React-Flux/issues"
+  },
+  "homepage": "https://github.com/BW1990/Udemy-React-Flux#readme"
+}
